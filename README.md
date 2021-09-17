@@ -85,4 +85,4 @@ verify(record, condition)
 ## Considerações gerais:
  - Para combinar condições utilizando `or`, é preciso que a condição(`or`) esteja explícita no conjunto de condições;
  - As condições do conjunto de condições, quando o tipo de combinador (`or/and`) não for explicitamente informado, devem ser tratadas como `and`.
- - Se possível, incluá testes automatizados
+ - Se possível, inclua testes automatizados
